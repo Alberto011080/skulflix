@@ -1,6 +1,6 @@
 import { supabase } from '../lib/supabaseClient';
 
-export const GENRES = ['Tu biblioteca', 'Clásicos', 'Ciencia ficción', 'Terror', 'No ficción', 'Aventura', 'Romántico'];
+export const GENRES = ['Tu biblioteca', 'Clásicos', 'Ciencia ficción', 'Terror', 'No ficción', 'Conocimiento', 'Estudio', 'Aventura', 'Romántico'];
 
 export const SPINE_COLORS = ['#7a1113', '#0b3d2e', '#1a2a5e', '#5c3a21', '#3d1a5c', '#6e1a4a', '#0f4c5c', '#5c1a1a'];
 
